@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "dbc587fd1826267e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4dc82196734d513",
+        "type": "split",
+        "children": [
+          {
+            "id": "18200f3020d99e4b",
+            "type": "split",
+            "dimension": 73.71879106438897,
+            "children": [
+              {
+                "id": "22b076ffd9d89f91",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "hypotheses/Problem.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1e964800780aae67",
+                "type": "split",
+                "children": [
+                  {
+                    "id": "455133cea13551df",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "hypotheses/Solution.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "0a69a555ab5525ab",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "hypotheses/Key Metrics.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ],
+                "direction": "horizontal"
+              },
+              {
+                "id": "10c7cb4553ec2aa9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "hypotheses/Value Proposition.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "cdb49971fb4f4c93",
+                "type": "split",
+                "children": [
+                  {
+                    "id": "a0790a23cc012272",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "hypotheses/Unfair Advantage.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "03225abd5829a33b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "hypotheses/Channels.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ],
+                "direction": "horizontal"
+              },
+              {
+                "id": "1085d5b9e1c85aaa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "hypotheses/Customer Segments.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "174f78862c689728",
+            "type": "split",
+            "dimension": 26.28120893561104,
+            "children": [
+              {
+                "id": "324cf268ca100656",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "hypotheses/Cost Structure.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "da9bdb2da43579fc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "hypotheses/Revenue Streams.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0a1aa9fa2b201e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdf125e18336cd79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51ceaf8efe9f5c95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "442aae91e0d700b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "648371c8160d6aa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "de69be814efd3688",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c99d85245279196",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hypotheses/Solution.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03896081de568215",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hypotheses/Solution.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "575163c33ad00c76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "455133cea13551df",
+  "lastOpenFiles": [
+    "personas/Mark.md",
+    "hypotheses/Revenue Streams.md",
+    "hypotheses/Cost Structure.md",
+    "hypotheses/Channels.md",
+    "hypotheses/Unfair Advantage.md",
+    "hypotheses/Value Proposition.md",
+    "hypotheses/Key Metrics.md",
+    "hypotheses/Solution.md",
+    "hypotheses/Customer Segments.md",
+    "hypotheses/Problem.md"
+  ]
+}
