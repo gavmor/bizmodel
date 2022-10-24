@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "readme.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               }
             }
           }
