@@ -4,90 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5f1b6eca4ef8ac0a",
-        "type": "split",
+        "id": "7b311a46d972a992",
+        "type": "tabs",
         "children": [
           {
-            "id": "ba4c79850ec35277",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1a004435f5a735ba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "personas/Sasha.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
+            "id": "0b790686a04dfa11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "preview",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "7b311a46d972a992",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0b790686a04dfa11",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "personas/Taylor.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "b39d6a057b6313a4",
-        "type": "split",
-        "children": [
-          {
-            "id": "153ab84ea1215438",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5982f4da13f16d6e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "personas/Alex.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "a05feaee93ccdb56",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3fecb5e82c271657",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "personas/Sam.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personas/Taylor.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personas/Taylor.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,8 +124,8 @@
   },
   "active": "0b790686a04dfa11",
   "lastOpenFiles": [
-    "personas/Sasha.md",
     "personas/Taylor.md",
+    "personas/Sasha.md",
     "readme.md",
     "personas/Sam.md",
     "personas/Alex.md",
