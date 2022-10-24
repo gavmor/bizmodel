@@ -678,16 +678,90 @@
         "type": "split",
         "children": [
           {
-            "id": "e656210982c94065",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personas/Mark.md",
-                "mode": "source",
-                "source": false
+            "id": "5f1b6eca4ef8ac0a",
+            "type": "split",
+            "children": [
+              {
+                "id": "ba4c79850ec35277",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "1a004435f5a735ba",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "personas/Sasha.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "7b311a46d972a992",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "0b790686a04dfa11",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "personas/Taylor.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
               }
-            }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "b39d6a057b6313a4",
+            "type": "split",
+            "children": [
+              {
+                "id": "153ab84ea1215438",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "5982f4da13f16d6e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "personas/Alex.md",
+                        "mode": "preview",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "a05feaee93ccdb56",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "3fecb5e82c271657",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "personas/Sam.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
           }
         ],
         "direction": "vertical"
@@ -705,7 +779,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "file-explorer",
-                  "state": {}
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
                 }
               },
               {
@@ -744,7 +820,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "personas/Mark.md",
+                    "file": "personas/Alex.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -761,7 +837,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "personas/Mark.md",
+                    "file": "personas/Alex.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -785,8 +861,11 @@
         "width": 300,
         "collapsed": true
       },
-      "active": "e656210982c94065"
+      "ribbon": {
+        "mostRecentAction": ""
+      },
+      "active": "5982f4da13f16d6e"
     }
   },
-  "active": "Canvas"
+  "active": "Celebrity Squares"
 }

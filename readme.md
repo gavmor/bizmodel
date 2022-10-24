@@ -9,4 +9,4 @@ This repository is a template for a combination [Business Model Canvas]() and Cu
 1. This repository is intended to be opened as an [Obsidian]() Vault, with customer personas and components of the Business Model Canvas stored as individual Markdown files for Obsidian to edit.
 2. The Obsidian [Workspaces]() plugin is used to arrange the various components into 
 	1. the canvas view, like so: ![[readme-canvas-layout.png]]
-	2. the "[Celebrity Squares]()" view, like so:
+	2. the "[Celebrity Squares]()" view, like so: ![[readme-personas-layout.png]]
