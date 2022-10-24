@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7b311a46d972a992",
+        "id": "fea74170e0159de9",
         "type": "tabs",
         "children": [
           {
-            "id": "0b790686a04dfa11",
+            "id": "cd19809c8ede72bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -61,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "648371c8160d6aa0",
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,11 +115,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0b790686a04dfa11",
+  "active": "cd19809c8ede72bd",
   "lastOpenFiles": [
+    "readme.md",
     "personas/Taylor.md",
     "personas/Sasha.md",
-    "readme.md",
     "personas/Sam.md",
     "personas/Alex.md",
     "hypotheses/Solution.md",

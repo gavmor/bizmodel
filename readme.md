@@ -3,7 +3,7 @@ This repository is a template for a combination [Business Model Canvas](https://
 
 **Hypotheses** represent components of a business model canvase which can be tested and disproven.
 
-**Personas** are, at first, vague guesses at potentianlly interested market segments through interviews, research, and collection of **evidence** (*blood* & *glory*) they become [amalgamations of] real people.
+**Personas** are, at first, vague guesses at potentianlly interested market segments through interviews, research, and collection of **evidence** (*[pain](https://www.nngroup.com/articles/pain-points/)* & *delight*) they become [amalgamations of] real people.
 
 # How to Use This Repository
 1. This repository is intended to be opened as an [Obsidian](https://obsidian.md) Vault, with customer personas and components of the Business Model Canvas stored as individual Markdown files for Obsidian to edit.
