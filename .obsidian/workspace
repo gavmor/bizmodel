@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypotheses/Solution.md",
+                "file": "hypotheses/Value Proposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hypotheses/Solution.md",
+                "file": "hypotheses/Value Proposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,16 +244,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "455133cea13551df",
+  "active": "10c7cb4553ec2aa9",
   "lastOpenFiles": [
-    "personas/Mark.md",
     "hypotheses/Revenue Streams.md",
-    "hypotheses/Cost Structure.md",
     "hypotheses/Channels.md",
-    "hypotheses/Unfair Advantage.md",
     "hypotheses/Value Proposition.md",
-    "hypotheses/Key Metrics.md",
     "hypotheses/Solution.md",
+    "personas/Mark.md",
+    "hypotheses/Cost Structure.md",
+    "hypotheses/Unfair Advantage.md",
+    "hypotheses/Key Metrics.md",
     "hypotheses/Customer Segments.md",
     "hypotheses/Problem.md"
   ]

@@ -1,4 +1,5 @@
 {
   "newFileLocation": "current",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
