@@ -21,7 +21,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "personas/Adventurous Eater Andy.md",
+                        "file": "personas/Adventurous Andy.md",
                         "mode": "source",
                         "source": false
                       }
@@ -64,8 +64,8 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "personas/Environmentally Conscious Emily.md",
-                        "mode": "source",
+                        "file": "personas/Ecological Emily.md",
+                        "mode": "preview",
                         "source": false
                       }
                     }
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personas/Adam.md",
+                "file": "personas/Ecological Emily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personas/Adam.md",
+                "file": "personas/Ecological Emily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,15 +297,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ee2ac3da549965e5",
+  "active": "0b790686a04dfa11",
   "lastOpenFiles": [
-    "personas/Healthy Helen 1.md",
+    "personas/Adventurous Andy.md",
+    "personas/Ecological Emily.md",
     "personas/Adam.md",
+    "personas/Healthy Helen 1.md",
     "personas/Beefy Brad 1.md",
     "personas/Adventurous Eater Andy 1.md",
     "personas/Healthy Helen.md",
-    "personas/Environmentally Conscious Emily.md",
-    "personas/Adventurous Eater Andy.md",
     "personas/Beefy Brad.md",
     "hypotheses/Cost Structure.md",
     "hypotheses/Customer Segments.md",
