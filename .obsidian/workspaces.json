@@ -682,40 +682,90 @@
             "type": "split",
             "children": [
               {
-                "id": "ba4c79850ec35277",
-                "type": "tabs",
+                "id": "fd04bf004feab88b",
+                "type": "split",
                 "children": [
                   {
-                    "id": "1a004435f5a735ba",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "personas/Sasha.md",
-                        "mode": "source",
-                        "source": false
+                    "id": "ba4c79850ec35277",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "1a004435f5a735ba",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "personas/Adventurous Eater Andy.md",
+                            "mode": "source",
+                            "source": false
+                          }
+                        }
                       }
-                    }
+                    ]
+                  },
+                  {
+                    "id": "8075cadaca40d2a3",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "da7a54221d47fc98",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "personas/Adventurous Eater Andy 1.md",
+                            "mode": "source",
+                            "source": false
+                          }
+                        }
+                      }
+                    ]
                   }
-                ]
+                ],
+                "direction": "vertical"
               },
               {
-                "id": "7b311a46d972a992",
-                "type": "tabs",
+                "id": "b05201027bcec404",
+                "type": "split",
                 "children": [
                   {
-                    "id": "0b790686a04dfa11",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "personas/Taylor.md",
-                        "mode": "source",
-                        "source": false
+                    "id": "7b311a46d972a992",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "0b790686a04dfa11",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "personas/Environmentally Conscious Emily.md",
+                            "mode": "source",
+                            "source": false
+                          }
+                        }
                       }
-                    }
+                    ]
+                  },
+                  {
+                    "id": "96cf8a006130815b",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "ee2ac3da549965e5",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "personas/Environmentally Conscious Emily 1.md",
+                            "mode": "source",
+                            "source": false
+                          }
+                        }
+                      }
+                    ]
                   }
-                ]
+                ],
+                "direction": "vertical"
               }
             ],
             "direction": "horizontal"
@@ -725,40 +775,90 @@
             "type": "split",
             "children": [
               {
-                "id": "153ab84ea1215438",
-                "type": "tabs",
+                "id": "bbceb41a2b32a9a0",
+                "type": "split",
                 "children": [
                   {
-                    "id": "5982f4da13f16d6e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "personas/Alex.md",
-                        "mode": "preview",
-                        "source": false
+                    "id": "153ab84ea1215438",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "5982f4da13f16d6e",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "personas/Beefy Brad.md",
+                            "mode": "source",
+                            "source": false
+                          }
+                        }
                       }
-                    }
+                    ]
+                  },
+                  {
+                    "id": "1f2207c915c12710",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "31352ced5396b882",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "personas/Beefy Brad 1.md",
+                            "mode": "source",
+                            "source": false
+                          }
+                        }
+                      }
+                    ]
                   }
-                ]
+                ],
+                "direction": "vertical"
               },
               {
-                "id": "a05feaee93ccdb56",
-                "type": "tabs",
+                "id": "2ba25c29e525e6d9",
+                "type": "split",
                 "children": [
                   {
-                    "id": "3fecb5e82c271657",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "personas/Sam.md",
-                        "mode": "source",
-                        "source": false
+                    "id": "a05feaee93ccdb56",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "3fecb5e82c271657",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "personas/Healthy Helen.md",
+                            "mode": "source",
+                            "source": false
+                          }
+                        }
                       }
-                    }
+                    ]
+                  },
+                  {
+                    "id": "13a9504fd2d275ce",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "966f08751679436b",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "personas/Healthy Helen 1.md",
+                            "mode": "source",
+                            "source": false
+                          }
+                        }
+                      }
+                    ]
                   }
-                ]
+                ],
+                "direction": "vertical"
               }
             ],
             "direction": "horizontal"
@@ -820,7 +920,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "personas/Alex.md",
+                    "file": "personas/Healthy Helen 1.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -837,7 +937,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "personas/Alex.md",
+                    "file": "personas/Healthy Helen 1.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -861,10 +961,18 @@
         "width": 300,
         "collapsed": true
       },
-      "ribbon": {
-        "mostRecentAction": ""
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
       },
-      "active": "5982f4da13f16d6e"
+      "active": "966f08751679436b",
+      "mtime": "2024-05-08T15:08:27-07:00"
     }
   },
   "active": "Celebrity Squares"
