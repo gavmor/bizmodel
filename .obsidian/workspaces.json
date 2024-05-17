@@ -695,7 +695,7 @@
                         "state": {
                           "type": "markdown",
                           "state": {
-                            "file": "personas/Adventurous Eater Andy.md",
+                            "file": "personas/Adventurous Andy.md",
                             "mode": "source",
                             "source": false
                           }
@@ -738,8 +738,8 @@
                         "state": {
                           "type": "markdown",
                           "state": {
-                            "file": "personas/Environmentally Conscious Emily.md",
-                            "mode": "source",
+                            "file": "personas/Ecological Emily.md",
+                            "mode": "preview",
                             "source": false
                           }
                         }
@@ -756,7 +756,7 @@
                         "state": {
                           "type": "markdown",
                           "state": {
-                            "file": "personas/Environmentally Conscious Emily 1.md",
+                            "file": "personas/Adam.md",
                             "mode": "source",
                             "source": false
                           }
@@ -920,7 +920,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "personas/Healthy Helen 1.md",
+                    "file": "personas/Ecological Emily.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -937,7 +937,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "personas/Healthy Helen 1.md",
+                    "file": "personas/Ecological Emily.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -971,8 +971,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "966f08751679436b",
-      "mtime": "2024-05-08T15:08:27-07:00"
+      "active": "0b790686a04dfa11",
+      "mtime": "2024-05-08T15:15:25-07:00"
     }
   },
   "active": "Celebrity Squares"

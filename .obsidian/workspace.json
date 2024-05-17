@@ -224,6 +224,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "c4c138b9fba32125",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -246,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personas/Ecological Emily.md",
+                "file": "personas/Adam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personas/Ecological Emily.md",
+                "file": "personas/Adam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,15 +305,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0b790686a04dfa11",
+  "active": "ee2ac3da549965e5",
   "lastOpenFiles": [
-    "personas/Adventurous Andy.md",
+    "personas/Healthy Helen.md",
     "personas/Ecological Emily.md",
+    "personas/Adventurous Andy.md",
     "personas/Adam.md",
     "personas/Healthy Helen 1.md",
     "personas/Beefy Brad 1.md",
     "personas/Adventurous Eater Andy 1.md",
-    "personas/Healthy Helen.md",
     "personas/Beefy Brad.md",
     "hypotheses/Cost Structure.md",
     "hypotheses/Customer Segments.md",
